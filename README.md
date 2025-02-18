@@ -153,6 +153,19 @@ os.environ["PATH"] += os.pathsep + r"C:\ffmpeg\bin"
 - ✅ Update Streamlit: `pip install --upgrade streamlit`
 - ✅ Check port availability
 
+
+## 📷 Screenshots 
+
+![Screenshot 2025-02-17 211112](https://github.com/user-attachments/assets/b62f0bae-6c90-49c2-ab62-dd4c734ce94b)
+
+![Screenshot 2025-02-17 211123](https://github.com/user-attachments/assets/2f10eccf-ec5a-4df8-8a28-9ba116d0720c)
+
+![Screenshot 2025-02-17 210946](https://github.com/user-attachments/assets/f35d88bc-3a18-4e6e-9b2c-ebc59f93114d)
+
+![Screenshot 2025-02-17 210959](https://github.com/user-attachments/assets/89ff3d58-e756-468e-96cb-8a51124caa34)
+
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -167,7 +180,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Copyright (c) 2024 Ramu D
+Copyright (c) 2024 Ramu R 
 
 ## 🙏 Acknowledgments
 
@@ -182,7 +195,7 @@ Copyright (c) 2024 Ramu D
 
 For support:
 - 📮 Open an issue in the GitHub repository: https://github.com/ramu1904/youtube-video-translator/issues
-- 📧 Contact the maintainer: Ramu D
+- 📧 Contact the maintainer: Ramu R
 - 💭 Check existing issues for solutions
 - 📚 Read the documentation thoroughly
 
