@@ -1,0 +1,8 @@
+gtts
+yt-dlp
+whisper
+deep-translator
+regex
+textwrap3
+imageio-ffmpeg
+streamlit
