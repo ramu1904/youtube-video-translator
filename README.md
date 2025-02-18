@@ -195,7 +195,7 @@ Copyright (c) 2024 Ramu R
 
 For support:
 - 📮 Open an issue in the GitHub repository: https://github.com/ramu1904/youtube-video-translator/issues
-- 📧 Contact the maintainer: Ramu R mailto : ramuonnect45@gmail.com
+- 📧 Contact the maintainer: Ramu R ramuonnect45@gmail.com
 - 💭 Check existing issues for solutions
 - 📚 Read the documentation thoroughly
 
